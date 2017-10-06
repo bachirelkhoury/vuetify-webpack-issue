@@ -1,3 +1,6 @@
+### Github Issue
+Related to issue https://github.com/vuetifyjs/vuetify/issues/2032
+
 ### Steps to reproduce
 Either clone this project then run:
 `npm run dev`
@@ -56,9 +59,6 @@ vue.runtime.esm.js?ff9b:4405 Uncaught TypeError: Cannot read property 'install' 
     at app.js:724
     at app.js:727
 ```
-
-### Reproduction Link
-https://github.com/bachirelkhoury/vuetify-webpack-issue
 
 
 
